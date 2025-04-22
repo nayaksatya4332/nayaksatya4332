@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
-<h3 align="center">A Passionate FullStack Developer</h3>
+<h3 align="center">🧑‍💻 Full-Stack Dev | ☁️ Cloud Nerd | 🤖 AI Explorer — I code stuff that thinks (almost)!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaksatya4332&label=Profile%20views&color=0e75b6&style=flat" alt="nayaksatya4332" /> </p>
 
