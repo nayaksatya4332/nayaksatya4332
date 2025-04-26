@@ -2,7 +2,13 @@
 
 **`🧑‍💻 Full-Stack Dev | ☁️ Cloud Nerd | 🤖 AI Explorer — Learning to build intelligent systems!`**
 
-I'm a full-stack developer with expertise in the Mircoservices and Serverless architectures, currently working as an SDE at a leading MNC. I have experience building MVC/SPA projects from scratch and developing cloud-native full-stack applications. Currently, I’m working with React/Next.js and Node/typescript while exploring LangChain for AI-driven solutions. My role spans across maintaining infrastructure, participating in design discussions, implementing pipelines, and ensuring security in applications.
+I'm a full-stack developer with expertise in the Mircoservices and Serverless architectures, currently working as an SDE at a leading MNC. I have experience building MVC/SPA projects from scratch and developing cloud-native full-stack applications. My role spans across maintaining infrastructure, participating in design discussions, implementing pipelines, and ensuring security in applications.
+
+- 🔭 I’m currently working on **Recomendation System,Chatbot Integrations**
+
+- 🌱 I’m currently learning **OpenAi,HuggingFace,LangChain,Agent Developement**
+
+#
 
 <p align="left">
    <!-- LinkedIn -->
