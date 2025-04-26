@@ -37,13 +37,7 @@ I'm a full-stack developer with expertise in the Mircoservices and Serverless ar
 
 ### 📊 Stats
 
-<table>
-  <tr>
-    <td>
-      <img alt="Satya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nayaksatya4332&show_icons=true&theme=gruvbox" height="195px" />
-    </td>
-    <td>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayaksatya4332&show_icons=true&locale=en&layout=compact&theme=gruvbox" height="195px" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img alt="Satya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nayaksatya4332&show_icons=true&theme=gruvbox" height="195px" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayaksatya4332&show_icons=true&locale=en&layout=compact&theme=gruvbox" height="195px" />
+</div>
