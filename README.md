@@ -2,7 +2,7 @@
 
 **`🧑‍💻 Full-Stack Dev | ☁️ Cloud Nerd | 🤖 AI Explorer — Learning to build intelligent systems!`**
 
-I'm a full-stack developer with expertise in the Mircoservices and Serverless architectures, currently working as an SDE at a leading MNC. I have experience building MVC/SPA projects from scratch and developing cloud-native full-stack applications. My role spans across maintaining infrastructure, participating in design discussions, implementing pipelines, and ensuring security in applications.
+I'm a full-stack developer with expertise in the Mircoservices and Serverless architectures, currently working as SDE at a leading MNC. I have experience building MVC/SPA projects from scratch and developing cloud-native full-stack applications. My role spans across maintaining infrastructure, participating in design discussions, implementing pipelines, and ensuring security in applications.
 
 - 🔭 I’m currently working on **Recomendation System,Chatbot Integrations**
 
